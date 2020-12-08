@@ -1,2 +1,2 @@
 # Safu
-Safu is a game similar to roblox
+Safu Captain is a 2d platformer that tests your coding skills!
